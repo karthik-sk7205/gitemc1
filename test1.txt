@@ -1,1 +1,2 @@
 created a test file in text type
+added next line
